@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ravindra2112.netlify.app/](https://ravindra2112.netlify.app/)
 
-- 💬 Ask me about **Java , c , Html , WordPress**
+- 💬 Ask me about **Java , oops, c , Html , css, js**
 
 - 📫 How to reach me **ravindra21122k@gmail.com**
 
