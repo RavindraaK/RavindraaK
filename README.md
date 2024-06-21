@@ -1,7 +1,7 @@
 ![MasterHead](https://www.edu360.com.my/images/banners/coding-banner.png)
 
 <h1 align="center">Hi 👋, I'm Ravindra Kumbhar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
