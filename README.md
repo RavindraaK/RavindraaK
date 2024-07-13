@@ -1,7 +1,9 @@
 ![MasterHead](https://www.edu360.com.my/images/banners/coding-banner.png)
 
 <h1 align="center">Hi 👋, I'm Ravindra Kumbhar</h1>
-<h3 align="center">A passionate Java Developer from India</h3>
+<h3 align="center">I have done Bachelor's degree in ECE seeking an entry-level position as a Software Engineer. Proficient in multiple programming languages including Java, C, and JavaScript. Solid understanding of data structures, algorithms, and software development methodologies. Strong problem-solving skills with a passion for learning and adapting to new technologies.
+
+I want to continue improving my skills that can enable me to be more creative and be able to build visually appealing projects.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
